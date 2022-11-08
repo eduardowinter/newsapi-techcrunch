@@ -26,7 +26,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>NewsAPI | TechCrunch News</title>
+        <title>TechCrunch News | NewsAPI</title>
       </Head>
 
       <div className="row d-flex justify-content-center mt-100 mb-100">                                                    
